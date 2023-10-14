@@ -17,7 +17,7 @@ int main(){
     int endcolumn=m-1;          //m
     int endrow=n-1;             //n
     int startingcolumn=0;       //m
-    int element=n*m;
+    int element=n*m;            //this keeps the count for elements. When this reaches 0 we stop the code. 
 
     while (startingcolumn<=endcolumn && startingrow<=endrow) { 
         if (element!=0){ 
