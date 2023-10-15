@@ -9,7 +9,7 @@ cout<<"n and i: ";
 cin>>n>>i;
 cout<<"op: ";
 cin>>op;
-
+//using switch
 switch(op) {
     case '+':
     cout<<n+i;
