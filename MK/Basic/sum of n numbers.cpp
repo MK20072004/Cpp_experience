@@ -13,7 +13,7 @@ for(int counter=1; counter<=n;counter++) {
 cout<<sum ;
 
 
-
+//alternate code can be cout<<n*(n+1)/2 but did not use because this code was for learning loops.
 
 
     return 0;
