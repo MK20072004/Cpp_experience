@@ -1,0 +1,1 @@
+(*head1).makeIntersection(head1, head2, 4);
