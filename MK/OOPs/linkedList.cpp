@@ -185,7 +185,7 @@ class Node{
 
     Node* reverseNodes(Node* head, int k){
 
-        (k>=0)? : k = -k;
+        k = ((k>=0)? k : -k);
         int tmp = k;
 
         if (head == NULL){
