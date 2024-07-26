@@ -11,3 +11,4 @@ This repository contains my coding experience in the language C++<br>
 * Object-Oriented Programming (OOP)
 * Standard Template Library (STL)
 * Problem Solving
+* Dynamic Programming
